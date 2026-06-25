@@ -1,0 +1,11 @@
+git config --global user.name "Aakash1254"
+git config --global user.email"akkuegu99@gmail.com"
+git config color.ui auto
+git init
+git remote add origin https://github.com/Aakash1254/mygit.git
+git pull origin main
+git status
+git add . //add all files
+git status
+git commit -m "initial commit"
+git push
